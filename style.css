@@ -1,0 +1,66 @@
+h2{
+	margin: 10px;
+}
+.rostro1{
+	background-image: url("rostro1.jpg");
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin: 5px;
+	float: left;
+}
+.rostro2{
+	background-image: url("rostro2.jpg");
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin: 5px;
+	float: left;
+}
+.rostro3{
+	background-image: url("rostro3.jpg");
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin: 5px;
+	float: left;
+}
+.rostro4{
+	background-image: url("rostro4.jpg");
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	position: absolute;
+	top: 270px;
+}
+.rostro5{
+	background-image: url("rostro5.jpg");
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	position: absolute;
+	top: 270px;
+	left: 217px;
+}
+.rostro6{
+	background-image: url("rostro6.jpg");
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	position: absolute;
+	top: 270px;
+	left: 430px;
+}
+.linea{
+	position: relative;
+	background-color: black;
+	width: 70px;
+	height: 5px;
+	margin: 10px;
+}
+p{
+	position: relative;
+	top: 160px;
+	left: 80px;
+	color: black;
+}
